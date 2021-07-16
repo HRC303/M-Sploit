@@ -17,10 +17,11 @@ $ pkg install bundler
 $ pkg install wget
 $ pkg install ruby
 $ pkg install git
-$ git clone https://github.com/zonaredXXII/MspoitZonaredXXII.git
-$ cd MsploitXXII
-$ chmod +x MsploitXXII.sh
-$ ./MsploitXXII.sh
+$ git clone https://github.com/zonaredXXII/M-SploitXXII.git
+$ cd M-SploitXXII
+$ chmod +x M-SploitXXII.sh
+$ ./M-SploitXXII.sh
+$ msfconsole
 
 CARA KERJANYA :
 1. Pertama kita akan membuat payload/backdoor atau virus yang kita gunakan untuk dirimkan ke korban agar dapat akses ke HP nya.
