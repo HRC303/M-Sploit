@@ -1,37 +1,11 @@
 #!/data/data/com.termux/files/usr/bin/bash
 clear
 echo "
-                                                                                                    
-                                        .-:/+++++/:.`                                               
-                                   .+syso/:-.....-/+syy+-`                                          
-                                -sho:`                 -+yy:                                        
-                              :hy-                        .od+`                                     
-                            `yh-..       By. Mr.XXII       `..sd-                                    
-                           .do`/.    Team : ZONAREDXXII     :::m:                                   
-                          `ds`s`   METASPLOIT ZONARED XXII   +::N-                                  
-                          /N`/s                              -y yy                                  
-                          /m`+y  ```    `          `     ``  /h yy                                  
-                          `m+-N/:.    ` `-::`   ./-`      .-/d+.N:                                  
-                           +Ny. ```````.-- .+soo:`.:-``````` `+Nh                                   
-                           `md-+NMMMMMNmh+++`   :o/ydNMMMMMMs-oM-                                   
-                            /M: dMMMMMMMMN-yy-+/m.dMMMMMMMMM.`my                                    
-                            `dd`sMMMMMMMMMmm-`o`ymMMMMMMMMMm`sN.                                    
-                             +M:/yhhhyyyyso`.dmd.:yyyyyhhhy+.mh                                     
-                            .m+      `.-.` :NMmMN:`.-.``     -m/                                    
-                            +m.   `:++o+- .NMMoMMN../o++/`   `yh                                    
-                             :ys/smNN+  ---NNy`yNN:/  :mNNy/sy+`                                    
-                               `hd..MM-  ` `     ``  `mM+`sm.                                       
-                                :N`-MM/. `` ``.` ```..NM+ hs                                        
-                                -N.+MMss++y/s/s++o+sooNMh do                                        
-                                /N`+/NMsso+:s:o++/oosNNo+ yy                                        
-                                +m`.``.+yhssdohhsyhys.` . yh                                        
-                                .hy:`  ``-.-:`::.:-``   -od:                                        
-                                  .+yyo-/  `  `  ` ::+yyo-                                          
-                                      -sm+        -my:`                                             
-                                        .ossosossss-                                                
-                                                                                                    
+/__  /  / __ \/ | / /   |  / __ \/ ____/ __ \
+  / /  / / / /  |/ / /| | / /_/ / __/ / / / /
+ / /__/ /_/ / /|  / ___ |/ _, _/ /___/ /_/ /
+/____/\____/_/ |_/_/  |_/_/ |_/_____/_____/  
 "
-
 center() {
   termwidth=$(stty size | cut -d" " -f2)
   padding="$(printf '%0.1s' ={1..500})"
