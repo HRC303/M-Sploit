@@ -11,7 +11,7 @@ $ pkg install bundler
 $ pkg install wget
 $ pkg install ruby
 $ pkg install git
-$ git clone https://github.com/zonaredXXII/M-SploitXXII.git
+$ git clone https://github.com/HRC303/M-SploitXXII.git
 $ cd M-SploitXXII
 $ chmod +x M-SploitXXII.sh
 $ ./M-SploitXXII.sh
