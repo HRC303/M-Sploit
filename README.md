@@ -1,15 +1,9 @@
 # MspoitZonaredXXII
-By. Mr.XXII
-Team : ZONAREDXXII Security Hacker Commander
-Follow Me :
-Whatsapp Me : https://bit.ly/3yYoNJH
-Telegram : https://bit.ly/2VDRZHD
-Facebook : https://bit.ly/3AYn8pb
-Instagram : https://bit.ly/3hCkH41
-Blog : https://bit.ly/3r5n16I
-Grup WhatsApp : https://bit.ly/3wJQfct
-Youtube : https://bit.ly/3kglnhk
-■■■■■■■■■■■■■■■■■■■■■■■■■
+By. Mr.HRC303
+
+
+
+
 
 INSTALL & KERJA METASPLOIT :
 $ pkg update && pkg upgrade
